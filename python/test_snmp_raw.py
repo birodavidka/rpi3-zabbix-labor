@@ -1,4 +1,4 @@
-from pysnmp.hlapi.v1arch import (
+from pysnmp.hlapi import (
     SnmpEngine,
     CommunityData,
     UdpTransportTarget,
@@ -9,21 +9,16 @@ from pysnmp.hlapi.v1arch import (
 )
 import sys
 
-# Használat:
-# python test_snmp.py [host] [community]
-# Példa:
-# python test_snmp.py 127.0.0.1 public
-
 host = sys.argv[1] if len(sys.argv) > 1 else "127.0.0.1"
 community = sys.argv[2] if len(sys.argv) > 2 else "public"
 
-# SNMPv2c GET: sysName.0
+# sysName.0 = 1.3.6.1.2.1.1.5.0
 iterator = getCmd(
     SnmpEngine(),
-    CommunityData(community, mpModel=1),             # v2c
+    CommunityData(community, mpModel=1),  # SNMPv2c
     UdpTransportTarget((host, 161), timeout=2, retries=2),
     ContextData(),
-    ObjectType(ObjectIdentity("SNMPv2-MIB", "sysName", 0)),
+    ObjectType(ObjectIdentity("1.3.6.1.2.1.1.5.0")),
 )
 
 errorIndication, errorStatus, errorIndex, varBinds = next(iterator)
@@ -33,5 +28,5 @@ if errorIndication:
 elif errorStatus:
     print(f"SNMP hiba: {errorStatus.prettyPrint()} at {errorIndex}")
 else:
-    for varBind in varBinds:
-        print(f"Eredmény: {varBind.prettyPrint()}")
+    for vb in varBinds:
+        print(f"Eredmény: {vb.prettyPrint()}")

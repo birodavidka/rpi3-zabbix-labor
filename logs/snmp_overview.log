@@ -1,0 +1,2430 @@
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:06:40
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.03
+Memory:      used: 758.6 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:10:03
+
+Load avg:    1m: 0.09 / 5m: 0.05 / 15m: 0.03
+Memory:      used: 763.7 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:10:33
+
+Load avg:    1m: 0.19 / 5m: 0.07 / 15m: 0.03
+Memory:      used: 764.9 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.05 / 15m: 0.02
+Memory:      used: 764.0 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 760.6 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 761.5 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 765.0 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:35:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.1 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:40:03
+
+Load avg:    1m: 0.07 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 761.4 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:45:03
+
+Load avg:    1m: 0.00 / 5m: 0.05 / 15m: 0.01
+Memory:      used: 758.7 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:50:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.0 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 766.4 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:00:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 767.6 MiB / 906.2 MiB (84.7%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:05:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 765.4 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 766.4 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.2 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 761.7 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 763.9 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 765.9 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 768.6 MiB / 906.2 MiB (84.8%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.9 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 765.1 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 765.5 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      1:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.6 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 766.9 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:05:03
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 764.0 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 766.1 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 769.4 MiB / 906.2 MiB (84.9%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:20:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.4 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:25:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 761.7 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:30:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 759.3 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:35:03
+
+Load avg:    1m: 0.10 / 5m: 0.05 / 15m: 0.02
+Memory:      used: 756.6 MiB / 906.2 MiB (83.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:40:03
+
+Load avg:    1m: 0.01 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 756.6 MiB / 906.2 MiB (83.5%)
+Disk:        /: 7000.8 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:45:03
+
+Load avg:    1m: 0.10 / 5m: 0.05 / 15m: 0.01
+Memory:      used: 758.1 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:50:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 757.9 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      2:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.00
+Memory:      used: 758.0 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 757.3 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 756.1 MiB / 906.2 MiB (83.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 756.3 MiB / 906.2 MiB (83.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 759.0 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.1 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 758.0 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 758.3 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 759.2 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 759.4 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:45:03
+
+Load avg:    1m: 0.20 / 5m: 0.07 / 15m: 0.01
+Memory:      used: 763.0 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 760.7 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      3:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 758.7 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 757.8 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:05:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 755.8 MiB / 906.2 MiB (83.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:10:03
+
+Load avg:    1m: 0.02 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 755.4 MiB / 906.2 MiB (83.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:15:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 759.1 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:20:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 758.0 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:25:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 753.9 MiB / 906.2 MiB (83.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:30:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 759.3 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:35:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 758.4 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.1 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 756.9 MiB / 906.2 MiB (83.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:50:03
+
+Load avg:    1m: 0.16 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 759.5 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      4:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 754.6 MiB / 906.2 MiB (83.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 756.1 MiB / 906.2 MiB (83.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 755.6 MiB / 906.2 MiB (83.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 759.2 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.5 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 758.7 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 759.0 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:30:03
+
+Load avg:    1m: 0.10 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 760.4 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:35:03
+
+Load avg:    1m: 0.13 / 5m: 0.07 / 15m: 0.01
+Memory:      used: 759.8 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 755.0 MiB / 906.2 MiB (83.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 757.7 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 759.1 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      5:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 757.5 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:00:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 759.3 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:05:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 758.7 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:10:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 760.3 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:15:03
+
+Load avg:    1m: 0.04 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 761.9 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:20:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.7 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:25:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 760.3 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 758.3 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 757.3 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 757.1 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 756.9 MiB / 906.2 MiB (83.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:50:03
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 757.6 MiB / 906.2 MiB (83.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      6:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 762.7 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:00:03
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 761.0 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 762.9 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 760.8 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.3 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 760.9 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 761.1 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.2 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 762.8 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:40:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 761.9 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:45:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 760.1 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:50:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 761.1 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      7:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 758.8 MiB / 906.2 MiB (83.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:00:03
+
+Load avg:    1m: 0.06 / 5m: 0.05 / 15m: 0.01
+Memory:      used: 762.4 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:05:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 762.5 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:10:03
+
+Load avg:    1m: 0.04 / 5m: 0.03 / 15m: 0.00
+Memory:      used: 766.7 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 763.8 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:20:03
+
+Load avg:    1m: 0.10 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 763.9 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 768.1 MiB / 906.2 MiB (84.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 759.1 MiB / 906.2 MiB (83.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 763.7 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:40:03
+
+Load avg:    1m: 0.13 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 762.0 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 761.1 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 763.4 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      8:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.1 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.6 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 765.4 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 766.8 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 763.3 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 762.3 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:25:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.3 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:30:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 762.8 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:35:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 762.0 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:40:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 761.3 MiB / 906.2 MiB (84.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:45:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 760.5 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:50:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 760.3 MiB / 906.2 MiB (83.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      9:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 764.7 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:00:04
+
+Load avg:    1m: 0.16 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 764.1 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:05:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 762.1 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:10:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 764.9 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:15:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 762.7 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:20:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.9 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:25:04
+
+Load avg:    1m: 0.10 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 763.9 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:30:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 764.7 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:35:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 767.1 MiB / 906.2 MiB (84.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:40:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 767.9 MiB / 906.2 MiB (84.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:45:04
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 763.5 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:50:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 765.8 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      10:55:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 762.3 MiB / 906.2 MiB (84.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:00:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 766.4 MiB / 906.2 MiB (84.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:05:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 764.1 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:10:04
+
+Load avg:    1m: 0.11 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 765.3 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:15:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 763.3 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:20:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 764.2 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:25:04
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 767.4 MiB / 906.2 MiB (84.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:30:04
+
+Load avg:    1m: 0.02 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 773.9 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:35:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 766.1 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:40:04
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 765.7 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:45:04
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 762.9 MiB / 906.2 MiB (84.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:50:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 764.7 MiB / 906.2 MiB (84.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      11:55:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 765.7 MiB / 906.2 MiB (84.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:00:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 764.0 MiB / 906.2 MiB (84.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:05:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 769.8 MiB / 906.2 MiB (85.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:10:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 778.4 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:15:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 772.4 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:20:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.4 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:25:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 774.3 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:30:04
+
+Load avg:    1m: 0.10 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:35:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 770.5 MiB / 906.2 MiB (85.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:40:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 776.0 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:45:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 771.8 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:50:04
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 770.9 MiB / 906.2 MiB (85.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      12:55:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 770.6 MiB / 906.2 MiB (85.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:00:04
+
+Load avg:    1m: 0.02 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 771.8 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:05:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.7 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:10:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.0 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:15:04
+
+Load avg:    1m: 0.04 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 773.5 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:20:04
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 776.1 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:25:04
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.1 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:30:04
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:35:04
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 772.8 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:40:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 772.3 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:45:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.4 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:50:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 778.4 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      13:55:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.2 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:00:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.6 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:05:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.3 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:10:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.8 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:15:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:20:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 774.6 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:25:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.3 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:30:04
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.6 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:35:04
+
+Load avg:    1m: 0.10 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 774.8 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:40:04
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 776.3 MiB / 906.2 MiB (85.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:45:04
+
+Load avg:    1m: 0.01 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 775.2 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:50:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 773.1 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      14:55:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.00
+Memory:      used: 773.8 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 771.6 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 773.8 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 772.7 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 774.9 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.4 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.3 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 773.2 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 774.5 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.2 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.3 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      15:55:03
+
+Load avg:    1m: 0.24 / 5m: 0.06 / 15m: 0.02
+Memory:      used: 771.3 MiB / 906.2 MiB (85.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.05 / 15m: 0.01
+Memory:      used: 771.7 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 772.6 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 776.1 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:15:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:20:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 776.0 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:25:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 774.0 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:30:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 774.2 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:35:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.01
+Memory:      used: 775.3 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:40:03
+
+Load avg:    1m: 0.13 / 5m: 0.06 / 15m: 0.02
+Memory:      used: 777.5 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:45:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.00
+Memory:      used: 775.1 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 775.0 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      16:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 773.5 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 771.8 MiB / 906.2 MiB (85.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 779.0 MiB / 906.2 MiB (86.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 775.8 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 778.0 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.1 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.1 MiB / 906.2 MiB (85.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:30:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 773.1 MiB / 906.2 MiB (85.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:35:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 776.8 MiB / 906.2 MiB (85.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.8 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:45:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 774.8 MiB / 906.2 MiB (85.5%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 778.0 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      17:55:03
+
+Load avg:    1m: 0.09 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 778.4 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 782.5 MiB / 906.2 MiB (86.4%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:05:03
+
+Load avg:    1m: 0.00 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 779.9 MiB / 906.2 MiB (86.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:10:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 779.3 MiB / 906.2 MiB (86.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:15:03
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.3 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:20:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 782.1 MiB / 906.2 MiB (86.3%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:25:03
+
+Load avg:    1m: 0.05 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 780.8 MiB / 906.2 MiB (86.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:30:03
+
+Load avg:    1m: 0.00 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 779.4 MiB / 906.2 MiB (86.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:35:03
+
+Load avg:    1m: 0.00 / 5m: 0.01 / 15m: 0.00
+Memory:      used: 777.1 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:40:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 777.2 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:45:03
+
+Load avg:    1m: 0.11 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 776.7 MiB / 906.2 MiB (85.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:50:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 778.2 MiB / 906.2 MiB (85.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      18:55:03
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 779.3 MiB / 906.2 MiB (86.0%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:00:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 777.9 MiB / 906.2 MiB (85.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:05:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 776.4 MiB / 906.2 MiB (85.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:10:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 775.4 MiB / 906.2 MiB (85.6%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:15:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 776.3 MiB / 906.2 MiB (85.7%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:20:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 781.0 MiB / 906.2 MiB (86.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      19:25:03
+
+Load avg:    1m: 0.08 / 5m: 0.02 / 15m: 0.01
+Memory:      used: 779.9 MiB / 906.2 MiB (86.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:01:07
+
+Load avg:    1m: 0.11 / 5m: 0.08 / 15m: 0.03
+Memory:      used: 786.5 MiB / 906.2 MiB (86.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:06:07
+
+Load avg:    1m: 0.08 / 5m: 0.04 / 15m: 0.01
+Memory:      used: 788.9 MiB / 906.2 MiB (87.1%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:11:07
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 787.8 MiB / 906.2 MiB (86.9%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:16:07
+
+Load avg:    1m: 0.08 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 790.0 MiB / 906.2 MiB (87.2%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:21:07
+
+Load avg:    1m: 0.00 / 5m: 0.03 / 15m: 0.01
+Memory:      used: 786.7 MiB / 906.2 MiB (86.8%)
+Disk:        /: 7000.9 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:26:15
+
+Load avg:    1m: 2.92 / 5m: 0.84 / 15m: 0.28
+Memory:      used: 845.1 MiB / 906.2 MiB (93.3%)
+Disk:        /: 7001.3 / 28609.6 MiB (24%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:31:15
+
+Load avg:    1m: 3.05 / 5m: 2.09 / 15m: 0.95
+Memory:      used: 884.9 MiB / 906.2 MiB (97.7%)
+Disk:        /: 7336.3 / 28609.6 MiB (26%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:36:07
+
+Load avg:    1m: 0.10 / 5m: 1.13 / 15m: 0.88
+Memory:      used: 722.3 MiB / 906.2 MiB (79.7%)
+Disk:        /: 7317.8 / 28609.6 MiB (26%)
+
+SNMP MINI-DASHBOARD
+====================
+Host:        127.0.0.1
+Device:      raspberrypi
+Uptime:      0:41:07
+
+Load avg:    1m: 0.09 / 5m: 0.74 / 15m: 0.81
+Memory:      used: 828.2 MiB / 906.2 MiB (91.4%)
+Disk:        /: 7319.7 / 28609.6 MiB (26%)
