@@ -1,7 +1,7 @@
 
 
 # Raspberry Pi 3 – Zabbix + SNMP Monitoring Lab
-![Banner](docs/banner.png)
+![Banner](docs/rpi_zabbix_lab_banner.png)
 ## 📌 Projekt áttekintése
 
 Ez a labor projekt célja, hogy egy Raspberry Pi 3 segítségével gyakoroljuk a hálózati teljesítmény-monitorozást SNMP és Zabbix eszközökkel. A projekt egyszerre szolgál tanulási célokat és alapot adhat egy kisvállalati monitoring környezet szimulálására.
@@ -221,3 +221,4 @@ zabbix-labor/
 ## 📄 Licenc
 
 Ez egy oktatási/labor projekt.
+
